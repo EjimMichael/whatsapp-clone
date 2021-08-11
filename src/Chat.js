@@ -14,8 +14,10 @@ function Chat() {
     }, []);
 
     const sendMessage = (e) => {
-
+        e.preventDefault();
+        console.log('rsm', input)
     }
+        setInput('');
 
     return (
         <div className="chat">
