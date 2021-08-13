@@ -1,0 +1,21 @@
+[debug] [2021-08-12T01:29:23.646Z] ----------------------------------------------------------------------
+[debug] [2021-08-12T01:29:23.661Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Dellons\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-08-12T01:29:23.663Z] CLI Version:   9.16.0
+[debug] [2021-08-12T01:29:23.664Z] Platform:      win32
+[debug] [2021-08-12T01:29:23.664Z] Node Version:  v12.18.1
+[debug] [2021-08-12T01:29:23.670Z] Time:          Thu Aug 12 2021 02:29:23 GMT+0100 (West Africa Standard Time)
+[debug] [2021-08-12T01:29:23.671Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-12T01:29:23.722Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-12T01:29:23.724Z] > authorizing via signed-in user (ejimmichael1@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Dellons\Desktop\whatsapp-clone
+
