@@ -3,6 +3,7 @@ import { Button } from '@material-ui/core';
 import "./Login.css"
 
 function Login() {
+    const signIn = () => {};
     return (
         <div className="login">
             <div className="login__container">
@@ -11,7 +12,7 @@ function Login() {
                     <h1>Sign in to whatsApp</h1>
                 </div>
 
-                <Button type="submit" onClick={signIn}>Sign In With Google</Button>
+                <Button onClick={signIn}>Sign In With Google</Button>
             </div>
         </div>
     )

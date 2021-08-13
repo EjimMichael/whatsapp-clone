@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 import Chat from './Chat';
+import Login from './Login';
 import Sidebar from './Sidebar';
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
 
   return (
     <div className="app">
-      {!user ? ( <h1>LOGIN</h1>): (
+      {!user ? (<Login />): (
         <div className="app__body">
         <Router>
           <Sidebar />
